@@ -3,7 +3,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kirananisetti&label=Profile%20views&color=0e75b6&style=flat" alt="kirananisetti" /> </p>
+<p align="left"> <img src="(https://github.com/kirananisetti/Sweetylucky/assets/132910049/79bedb7e-4a59-46f7-82c1-b1ac9b4ee432)" alt="kirananisetti" /> </p>
 - 👨‍💻 All of my projects are available at [Www.kirananisetti.unaux.com](Www.kirananisetti.unaux.com)
 - 📝 I regularly write articles on [Blog link](Blog link)
 - 📫 How to reach me **Sweetylucky@gmail.com**
