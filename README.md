@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **linux**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kirananisetti/kirananisetti](https://github.com/kirananisetti/kirananisetti)
+- 👨‍💻 All of my projects are available at [https://github.com/kirananisetti/kirananisetti](https://github.com/kirananisetti/)
 
 - 📝 I regularly write articles on [www.kirananisetti.blogspot.com](www.kirananisetti.blogspot.com)
 
