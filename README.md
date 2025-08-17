@@ -1,13 +1,15 @@
 <h1 align="center">About my profile</h1>
 <h3 align="center">A passionate web hosting & web delevoping</h3>
 
-- 🌱 I’m currently learning **linux**
+- 🌱 I’m currently learning **kali linux**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kirananisetti/kirananisetti](https://github.com/kirananisetti/)
+- 👨‍💻 All of my projects are available at [https://github.com/kirananisetti](https://github.com/kirananisetti)
 
 - 📝 I regularly write articles on [www.kirananisetti.blogspot.com](www.kirananisetti.blogspot.com)
 
 - 📫 How to reach me **sweetylucky306@gmail.com**
+
+- ⚡ Fun fact **Hacking is fasion**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
