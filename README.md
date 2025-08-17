@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sweetylucky306@gmail.com**
 
-- ⚡ Fun fact **Hacking is fasion**
+- ⚡ Fun fact **Hacking is my fasion**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
