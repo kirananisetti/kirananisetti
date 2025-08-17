@@ -1,7 +1,8 @@
 <h1 align="center">About my profile</h1>
 <h3 align="center">A passionate web hosting & web delevoping</h3>
 
-<img width="680" height="428" alt="image" src="https://github.com/user-attachments/assets/47ac9d49-6127-4af1-b8c6-62fc883d8e37" />
+<img align="right" alt="coding" width="400" src="https://user-
+images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🌱 I’m currently learning **kali linux**
 
